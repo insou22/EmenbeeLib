@@ -1,0 +1,6 @@
+name: EmenbeeLib
+version: ${project.version}
+main: net.emenbee.lib.Lib
+author: insou
+
+load: STARTUP
